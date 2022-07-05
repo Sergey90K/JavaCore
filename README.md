@@ -1,2 +1,2 @@
-# NEW
- Progect
+# Java core
+ Educational project using Java.
